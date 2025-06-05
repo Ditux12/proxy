@@ -1,0 +1,12 @@
+{
+  "name": "1secmail-proxy",
+  "version": "1.0.0",
+  "description": "Proxy API for 1secmail to use in Google Chrome extension",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
